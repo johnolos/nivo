@@ -8,5 +8,6 @@
  */
 export { default as Axes } from './components/Axes'
 export { default as Axis } from './components/Axis'
+export { default as AxisTick } from './components/AxisTick'
 export * from './canvas'
 export * from './props'
